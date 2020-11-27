@@ -638,22 +638,41 @@ a[data-lightbox]:hover img {
     color: rgba(0, 0, 0, .5);
     background: none;
 }
-
+.citation
+{
+    background-color:#813A11;
+}
+a,
 h1,
-h2,
 h3,
 h4,
 h5,
 h6,
-p,
 label,
-.btn,
-a {
+.btn
+{
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
 }
-
+h2
+{
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #ffffff!important;
+}
+#bloc-2 h2
+{
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #575757!important;
+}
+#bloc-8 a
+{
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #ffffff!important;
+}
 .container {
     max-width: 1000px;
 }
@@ -723,7 +742,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #ffffff!important;
 }
 
 h4 {
@@ -771,15 +790,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color:#813A11;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: ##813A11!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background:#813A11;
     color: #FFFFFF!important;
 }
 
@@ -797,7 +816,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color:#813A11!important;
 }
 
 .ltc-atomic-tangerine:hover {
